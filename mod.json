@@ -1,9 +1,10 @@
 {
-	"geode": "4.0.0-beta.1",
+	"geode": "4.0.1",
 	"version": "v1.2.0",
 	"gd": {
 		"android": "2.2074",
-		"win": "2.2074"
+		"win": "2.2074",
+		"mac": "2.2074"
 	},
 	"id": "b1rtek.gddlintegration",
 	"name": "GDDL Integration",
